@@ -1,4 +1,4 @@
-#### Hi, I'm Bruno Rocha
+#### Hi, I'm almaz
 
 [![I work at Redhat](https://img.shields.io/badge/I%20work%20at%20RedHat-FF0000?style=for-the-badge&logo=redhat&logoColor=white)](https://redhat.com) [![for the Ansible Project](https://img.shields.io/badge/for%20the%20Ansible%20Project-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/ansible) 
 
@@ -6,7 +6,7 @@
 
 [![I like Rust Language](https://img.shields.io/badge/I%20like%20Rust%20Language-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/rust-lang) ![I like beer](https://img.shields.io/badge/🍺%20Beer-%23000000.svg?style=for-the-badge&logoColor=white) ![I like bicycles](https://img.shields.io/badge/🚴%20Bicycle-000.svg?style=for-the-badge&logoColor=white) 
 
-![I am from brazil](https://img.shields.io/badge/I%20am%20from%20🇧🇷-gray.svg?style=for-the-badge&logoColor=white)  ![Living in Portugal](https://img.shields.io/badge/living%20in%20🇵🇹-gray.svg?style=for-the-badge&logoColor=white) 
+![I am from kyrgzstan](https://img.shields.io/badge/I%20am%20from%20🇧🇷-gray.svg?style=for-the-badge&logoColor=white)  ![Living in Portugal](https://img.shields.io/badge/living%20in%20🇵🇹-gray.svg?style=for-the-badge&logoColor=white) 
 
 #### Reach me on
 [![Twitter](https://img.shields.io/badge/rochacbruno-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rochacbruno)
